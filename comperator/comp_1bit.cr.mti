@@ -1,0 +1,36 @@
+D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq4
+
+Top level modules:
+	eq4
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq4_testbench
+
+Top level modules:
+	eq4_testbench
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq1
+
+Top level modules:
+	eq1
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq2
+
+Top level modules:
+	eq2
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq2_testbench
+
+Top level modules:
+	eq2_testbench
+
+} {} {}}

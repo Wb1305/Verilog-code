@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NMPhuong/intelFPGA181/projects/comperator
+vmux2_1
+!s110 1719818786
+!i10b 1
+!s100 aScD1zN8aMkU`__;2CnE@3
+I6l:?MoHWRY`D]OV[8QNCo2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NMPhuong/intelFPGA181/projects/mux
+w1719817848
+8D:/NMPhuong/intelFPGA181/projects/mux/mux2to1.v
+FD:/NMPhuong/intelFPGA181/projects/mux/mux2to1.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1719818786.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/mux/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/mux/mux2to1.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vmux4_1
+!s110 1719818793
+!i10b 1
+!s100 Z>kV`>[cA0zY7QFOZmhOi0
+Ig8gF=W`k?lN^dLD^kHH7U1
+R0
+R1
+w1719817828
+8D:/NMPhuong/intelFPGA181/projects/mux/mux4to1.v
+FD:/NMPhuong/intelFPGA181/projects/mux/mux4to1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1719818793.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/mux/mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/mux/mux4to1.v|
+!i113 1
+R3
+R4
+vtb_mux4_1
+!s110 1719819318
+!i10b 1
+!s100 cWHZRCFKE8SnG]I`CMmJ`2
+I[Q`nK<FRPlEaJB<3>z_W[3
+R0
+R1
+w1719819305
+8D:/NMPhuong/intelFPGA181/projects/mux/mux4to1_tb.v
+FD:/NMPhuong/intelFPGA181/projects/mux/mux4to1_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1719819318.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/mux/mux4to1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/mux/mux4to1_tb.v|
+!i113 1
+R3
+R4

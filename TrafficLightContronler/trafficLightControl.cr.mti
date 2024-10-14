@@ -1,0 +1,22 @@
+D:/NMPhuong/intelFPGA181/projects/TrafficLightContronler/fsmModule.v {1 {vlog -work work -stats=none {D:\NMPhuong\intelFPGA181\projects\TrafficLightContronler\fsmModule.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/TrafficLightContronler/main.v {1 {vlog -work work -stats=none {D:\NMPhuong\intelFPGA181\projects\TrafficLightContronler\main.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/TrafficLightContronler/timerModule.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/TrafficLightContronler/timerModule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}}

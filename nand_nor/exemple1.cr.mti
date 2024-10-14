@@ -1,0 +1,15 @@
+D:/NMPhuong/intelFPGA181/projects/my_and_or.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/my_and_or.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_OR
+
+Top level modules:
+	AND_OR
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TEST
+
+Top level modules:
+	TEST
+
+} {} {}}

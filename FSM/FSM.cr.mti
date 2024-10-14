@@ -1,0 +1,15 @@
+D:/NMPhuong/intelFPGA181/projects/FSM/seq_dect_tb.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/FSM/seq_dect_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sequence_detector_tb
+
+Top level modules:
+	sequence_detector_tb
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/FSM/sequence_detector.v {1 {vlog -work work -stats=none {D:\NMPhuong\intelFPGA181\projects\FSM\sequence_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sequence_detector
+
+Top level modules:
+	sequence_detector
+
+} {} {}}

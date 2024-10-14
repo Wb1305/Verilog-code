@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NMPhuong/intelFPGA181/projects/decoder
+vdecoder2to4
+!s110 1720273123
+!i10b 1
+!s100 jlVh6M=WZ6XJ;JadMaNOC0
+Inm9ZFKUCVR?U<oI3DIz[W1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NMPhuong/intelFPGA181/projects/encoder
+w1720273015
+8D:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v
+FD:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1720273123.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vencoder8to3
+!s110 1720273018
+!i10b 1
+!s100 4f1akZc0=>RhalhZ:H7Z92
+IWGOVIoRO8kBS6Ld2>l;f^0
+R0
+R1
+w1719998217
+8D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v
+FD:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720273018.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v|
+!i113 1
+R3
+R4
+vtb_encoder8to3
+!s110 1720273019
+!i10b 1
+!s100 :;YcQCl_P<@AWZ:O1nilX1
+IT>9l76^mHH7_Oa5G49lhh2
+R0
+R1
+w1720271797
+8D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v
+FD:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1720273019.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v|
+!i113 1
+R3
+R4

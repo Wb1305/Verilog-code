@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NMPhuong/intelFPGA181
+vAND_OR
+!s110 1719235061
+!i10b 1
+!s100 SY8e1DSgi2OT0ZEYjil0M0
+I8mjajFl]acG1g9K9UmL@S2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NMPhuong/intelFPGA181/projects
+w1719235031
+8D:/NMPhuong/intelFPGA181/projects/my_and_or.v
+FD:/NMPhuong/intelFPGA181/projects/my_and_or.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1719235061.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/my_and_or.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/my_and_or.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@n@d_@o@r
+vTEST
+!s110 1719235981
+!i10b 1
+!s100 0mW?Amb^_alfHSi7^aahO1
+IY>>V:Y`LXV^0hS9f=1QA<1
+R0
+R1
+w1719235974
+8D:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v
+FD:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1719235981.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/testBenchAndOr.v|
+!i113 1
+R3
+R4
+n@t@e@s@t

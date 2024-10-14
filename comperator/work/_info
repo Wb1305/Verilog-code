@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NMPhuong/intelFPGA181
+veq1
+!s110 1719403636
+!i10b 1
+!s100 9@Um0_o6hGe<:Rb5VARzI0
+I34lO8[aoaHA;_CM<n=Jbm2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NMPhuong/intelFPGA181/projects/comperator
+w1719403631
+8D:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v
+FD:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1719403636.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/comperator/comp_1bit.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+veq2
+!s110 1719403981
+!i10b 1
+!s100 b0AFQJj=mm]>[93`mHEA70
+I`FH@=BidMK_d<I]<0OPRj3
+R0
+R1
+w1719403978
+8D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v
+FD:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1719403981.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit.v|
+!i113 1
+R3
+R4
+veq2_testbench
+!s110 1719404445
+!i10b 1
+!s100 4MlLWN6?`njnEOdaVm4jg3
+I8WfMG7ILge?5A32PN`S?z2
+R0
+R1
+w1719404441
+8D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v
+FD:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1719404445.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/comperator/comp_2bit_tb.v|
+!i113 1
+R3
+R4
+veq4
+!s110 1719418788
+!i10b 1
+!s100 DPEH^MSQE;a6j1WFZ95aG1
+INLQS`aZo]ZgVdVM^828B73
+R0
+R1
+w1719418779
+8D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v
+FD:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1719418788.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit.v|
+!i113 1
+R3
+R4
+veq4_testbench
+!s110 1719419564
+!i10b 1
+!s100 RhFX`=kIbgW<;:gkfP?701
+IYnklE5L0F0Q^1`FTUDU:42
+R0
+R1
+w1719419438
+8D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v
+FD:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1719419564.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/comperator/comp_4bit_tb.v|
+!i113 1
+R3
+R4

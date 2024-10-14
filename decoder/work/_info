@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NMPhuong/intelFPGA181/projects/mux
+vdecoder2to4
+!s110 1721050601
+!i10b 1
+!s100 jlVh6M=WZ6XJ;JadMaNOC0
+ITjYdIzGkK;adcP>o5>HYZ2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/NMPhuong/intelFPGA181/projects/decoder
+w1721050566
+8D:\NMPhuong\intelFPGA181\projects\decoder\decoder2to4.v
+FD:\NMPhuong\intelFPGA181\projects\decoder\decoder2to4.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1721050601.000000
+!s107 D:\NMPhuong\intelFPGA181\projects\decoder\decoder2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\NMPhuong\intelFPGA181\projects\decoder\decoder2to4.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vdecoder3to8
+!s110 1720326425
+!i10b 1
+!s100 =INAkWW?_G1D;lD8C76k22
+IH6jK@n_0VCh;zgm8aRR8O1
+R0
+R1
+w1720326422
+8D:/NMPhuong/intelFPGA181/projects/decoder/decoder3to8.v
+FD:/NMPhuong/intelFPGA181/projects/decoder/decoder3to8.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720326425.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/decoder/decoder3to8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/decoder/decoder3to8.v|
+!i113 1
+R3
+R4
+vtb_decoder3to8
+!s110 1720326639
+!i10b 1
+!s100 dd8;7U2MDNAB8LVZBO4D72
+IAVDYbS>E8WUdnDWiIk=m03
+R0
+R1
+w1720326635
+8D:/NMPhuong/intelFPGA181/projects/decoder/deceto8_tb.v
+FD:/NMPhuong/intelFPGA181/projects/decoder/deceto8_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1720326639.000000
+!s107 D:/NMPhuong/intelFPGA181/projects/decoder/deceto8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NMPhuong/intelFPGA181/projects/decoder/deceto8_tb.v|
+!i113 1
+R3
+R4

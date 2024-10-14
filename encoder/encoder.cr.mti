@@ -1,0 +1,22 @@
+D:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/decoder/decoder2to4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder2to4
+
+Top level modules:
+	decoder2to4
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encoder8to3
+
+Top level modules:
+	encoder8to3
+
+} {} {}} D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v {1 {vlog -work work -stats=none D:/NMPhuong/intelFPGA181/projects/encoder/encoder8to3_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_encoder8to3
+
+Top level modules:
+	tb_encoder8to3
+
+} {} {}}
